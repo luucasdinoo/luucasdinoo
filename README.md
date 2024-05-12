@@ -4,7 +4,11 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luucasdinoo&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=luucasdinoo&show_icons=true&theme=radical&layout=compact" />
 </div>
- 
+
+ &nbsp;
+
+ ![Snake Animation](https://github.com/luucasdinoo/luucasdinoo/blob/output/github-contribution-grid-snake.svg)
+
  &nbsp;
  &nbsp;
 
@@ -50,7 +54,4 @@
  
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
-
-![Snake Animation](https://github.com/luucasdinoo/luucasdinoo/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercek.app/api/pin/?username=luucasdinoo&repo=luucasdinoo&theme=radical)](https://github.com/luucasdinoo/luucasdinoo)
 
