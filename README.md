@@ -51,4 +51,6 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
 
+![Snake Animation](https://github.com/luucasdinoo/luucasdinoo/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercek.app/api/pin/?username=luucasdinoo&repo=luucasdinoo&theme=radical)](https://github.com/luucasdinoo/luucasdinoo)
 
