@@ -1,4 +1,6 @@
-# Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=6500&lines=Hello-World+🌎;+Sou+Lucas+Bernadino+,Beck-end+Developer!!!;" />
+</h1>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luucasdinoo&theme=radical&mode=weekly" />
