@@ -43,6 +43,7 @@
 
 <div> 
 <a href="https://www.instagram.com/luucasdinoo" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:luucasdinoo@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/lucas-bernadino/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 </div>&nbsp;&nbsp;
  
