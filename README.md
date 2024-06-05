@@ -21,7 +21,7 @@
 
 #### Studying in this moment:
 
-<img src="https://skillicons.dev/icons?i=spring,aws" />
+<img src="https://skillicons.dev/icons?i=spring,aws,kafka" />
 
 #### Databases:
 
@@ -33,7 +33,7 @@
 
 #### Others...
 
-<img src="https://skillicons.dev/icons?i=maven" />
+<img src="https://skillicons.dev/icons?i=maven,kafka" />
 
 
 &nbsp;
