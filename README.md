@@ -21,7 +21,7 @@
 
 #### Studying in this moment:
 
-<img src="https://skillicons.dev/icons?i=spring,aws,kafka" />
+<img src="https://skillicons.dev/icons?i=spring,aws" />
 
 #### Databases:
 
