@@ -33,7 +33,7 @@
 
 #### Others...
 
-<img src="https://skillicons.dev/icons?i=maven,kafka" />
+<img src="https://skillicons.dev/icons?i=maven,kafka,pip,npm" />
 
 
 &nbsp;
