@@ -15,13 +15,13 @@
  &nbsp;
 
 ## My Skills
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,nodejs,nest,git,github,cs,dotnet,python,django" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,nodejs,git,github,cs,dotnet,python" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
-<img src="https://skillicons.dev/icons?i=django,nest" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 #### Databases:
 
