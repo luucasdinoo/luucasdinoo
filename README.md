@@ -21,7 +21,7 @@
 
 #### Studying in this moment:
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,angular,aws" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,aws" />
 
 #### Databases:
 
